@@ -6,7 +6,7 @@
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:miriaam.priscilaa@gmail.com)
 
-Welcome to my Github page! I'm Priscila, I'm 22 y/o and I study computer engineering at the 
+Welcome to my Github page! I'm Priscila, I'm 23 y/o and I study computer engineering at the 
 Tecnológico Nacional de México Campus Monclova! 
 Matrícula I19050460 - I19050460@monclova.tecnm.mx
 
