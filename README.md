@@ -8,15 +8,11 @@
 
 Welcome to my Github page! I'm Priscila, I'm 23 y/o and I study computer engineering at the 
 Tecnológico Nacional de México Campus Monclova! 
-Matrícula I19050460 - I19050460@monclova.tecnm.mx
-
-
-
 
 #### 🌱 Things I am currently working on: 
 - Finish computer engineering carreer 
 - Taking online courses about web development, specifically front-end
-- Create content about Women STEM in a digital magazine
+- Create content on Instagram about books and STEM Women 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=a3lz6e532siaiv69492351rim&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
